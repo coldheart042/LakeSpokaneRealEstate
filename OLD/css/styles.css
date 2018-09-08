@@ -1,0 +1,45 @@
+body {
+    margin: 0 0 0 0;
+    background-size: cover;
+    background: url("../images/seamless-wood-texture-free-76.jpg") repeat fixed;
+}
+header {
+    top: 0;
+    width: 100%;
+}
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#navigation li a {
+     display: block;
+     width: 20%;
+ }
+.home {
+    width: 75%;
+    height: 448px;
+    background-image: url("../images/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    background-color: darkgrey;
+    width: 75%;
+}
+tr {
+    background-color: aqua;
+}
+.grayscale {
+    background-color: rgba(168, 168, 168, 0.8);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%
+;
+}
+footer div {
+    display: inline-block;
+    width: 30%;
+}
